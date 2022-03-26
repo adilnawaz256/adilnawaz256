@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adilnawaz256" alt="adilnawaz256" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/adilnawaz255" target="blank"><img src="https://img.shields.io/twitter/follow/adilnaw59001636?logo=twitter&style=for-the-badge" alt="adilnaw59001636" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adilnawaz255" target="blank"><img src="https://img.shields.io/twitter/follow/adilnawaz255?logo=twitter&style=for-the-badge" alt="adilnawaz255"/></a> </p>
 
 - 🔭 I’m currently working on **Full-stack Web Developer**
 
