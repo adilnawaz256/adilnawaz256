@@ -62,7 +62,7 @@
             <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
                 height="40" /> </a>
-                <a href="https://python.com/" target="_blank" rel="noreferrer"> <img
+                <a href="https://python.org/" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"
                     height="40" /> </a>
 </p>
