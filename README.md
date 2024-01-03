@@ -1,6 +1,6 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)]()
 <h1 align="center">Hi 👋, I'm Adil Nawaz</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" alt="Coding" width="400"
     src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilnawaz2&label=Profile%20views&color=0e75b6&style=flat"
@@ -10,11 +10,11 @@
             src="https://img.shields.io/twitter/follow/adilnawaz255?logo=twitter&style=for-the-badge"
             alt="adilnawaz255" /></a> </p>
 
-- 🔭 I’m currently working on **Full-stack Web Developer**
+- 🔭 I’m currently working on **Frontend Web Developer**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **adilnawaz256@gmail.com**
 
